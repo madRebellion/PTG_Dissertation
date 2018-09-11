@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8014b6dc085f964478449dda80b99410
+timeCreated: 1518223667
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 100000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 2}
+  - prefabTerrain: {fileID: 1701411661941884, guid: b90e91eb874ecac4a9352f34ea52872a,
+      type: 2}
+  - settlements: {fileID: 1759560003310258, guid: 7fb9e430e7b89b142afb896dc6035925,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

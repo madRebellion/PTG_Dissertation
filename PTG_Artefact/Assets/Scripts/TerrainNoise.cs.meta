@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e544422b5bf3a8643b536c45e0d47336
+timeCreated: 1518233519
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mesh: {instanceID: 0}
+  - settlements: {fileID: 1759560003310258, guid: 7fb9e430e7b89b142afb896dc6035925,
+      type: 2}
+  - terrain: {fileID: 4207757997290358, guid: b90e91eb874ecac4a9352f34ea52872a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
